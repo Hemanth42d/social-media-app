@@ -26,9 +26,9 @@ const Post = ({ post }) => {
               ))
             : null}
         </div>
-        <div className="alert alert-success reactions" role="alert">
+        {/* <div className="alert alert-success reactions" role="alert">
           This post has been reacted by {post.reactions} people
-        </div>
+        </div> */}
       </div>
     </>
   );

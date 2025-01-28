@@ -1,37 +1,44 @@
-
-.sidebar{
-    min-height: 800px;
+.sidebar {
+  min-height: 800px;
 }
 
-
-.app-container{
-    display: flex;
+.app-container {
+  display: flex;
 }
 
-.content{
-    height: 100%;
-    width: 100%;
+.content {
+  height: 100%;
+  width: 100%;
 }
 
-.post-card{
-    margin: 60px 50px;
-    width : 60rem;
+.post-card {
+  margin: 60px 50px;
+  width: 50rem;
 }
 
-.hashtag{
-    margin: 0px 3px;
+.hashtag {
+  margin: 0px 3px;
 }
 
-.reactions{
-    margin: 8px;
+.reactions {
+  margin: 8px;
 }
 
-.posts_content{
-    min-height: 86vh;
+.posts_content {
+  min-height: 86vh;
 }
 
-.create-post{
-    width: 80%;
-    margin-top: 50px;
-    margin-left: 10%;
+.create-post {
+  width: 80%;
+  margin-top: 50px;
+  margin-left: 10%;
+}
+
+.welcomeMsg {
+  margin: 5rem 0;
+}
+
+.spinner {
+  width: 5rem;
+  height: 5rem;
 }
